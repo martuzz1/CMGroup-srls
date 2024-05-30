@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il mio Sito Web</title>
+    <!-- Aggiungi qui i tuoi stili CSS se necessario -->
+</head>
+<body>
+    <header>
+        <h1>Benvenuto nel mio Sito Web!</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#introduzione">Introduzione</a></li>
+            <li><a href="#servizi">I nostri servizi</a></li>
+            <li><a href="#contatti">Contattaci</a></li>
+            <!-- Aggiungi altre sezioni del sito qui -->
+        </ul>
+    </nav>
+    <section id="introduzione">
+        <h2>Introduzione</h2>
+        <p>Benvenuti nel nostro sito web dedicato alle recinzioni! Scoprite tutto ciò che c'è da sapere.</p>
+    </section>
+    <section id="servizi">
+        <h2>I nostri servizi</h2>
+        <p>Offriamo una vasta gamma di servizi di installazione e manutenzione per recinzioni in legno, metallo e PVC.</p>
+    </section>
+    <section id="contatti">
+        <h2>Contattaci</h2>
+        <p>Hai domande o vuoi richiedere un preventivo? Contattaci tramite il modulo di contatto o chiamaci al numero indicato.</p>
+    </section>
+    <!-- Aggiungi altre sezioni del sito qui -->
+    <footer>
+        <p>© 2024 Il mio Sito Web sulle Recinzioni</p>
+    </footer>
+</body>
+</html>
